@@ -1,2 +1,1 @@
-# Mi-primer-repositorio
-Este es mi primer repositorio de prueba de PrepCourseHenry
+Este proyecto de prueba de como crear un repositorio y clonarlo desde Github a mi escritorio local
